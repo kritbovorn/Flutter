@@ -5,11 +5,11 @@ All file
 
 ## ☢︎ Utilities folder. 
 
-[Download](https://drive.google.com/drive/folders/1CBA6w_qHkyPKoZiGUmIh31ZUF4k4CiP-?usp=sharing)
+[Download](https://drive.google.com/drive/folders/1FIgXW-fI6l_QCZLKkj1wGu_9nQJw6YxH?usp=sharing)
 
 ## File: SizeConfig() ใช้เพื่อกำหนด ขนาด Font
 
-[Download](https://drive.google.com/file/d/198i0Mqtd8f5OYgTw6te8H6vmm9nTyf1W/view?usp=sharing)
+[Download](https://drive.google.com/file/d/1_Y-8hwHWLrPAPEyrxDaegnMoML8FG2aG/view?usp=sharing)
 
 STEP 1. Declare...
 
