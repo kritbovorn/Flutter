@@ -34,4 +34,30 @@ SizedBox(
 
 ---    
 
+## ☢︎ Layout   
+
+จัดให้ Child เรียงเต็ม พื้นที่ Stretch
+
+```dart 
+Column(
+  mainAxisAlignment: MainAxisAlignment.center,
+  crossAxisAlignment: CrossAxisAlignment.stretch,
+  children: [
+    const Text("Create To Firebase"),
+    TextFormField(),
+    const SizedBox(
+      height: 20,
+    ),
+    ElevatedButton(
+      onPressed: () {},
+      child: const Text("Send"),
+    ),
+  ],
+)
+
+```  
+<img width="314" alt="Screen Shot 2565-10-13 at 12 04 06" src="https://user-images.githubusercontent.com/10919051/195506225-273379fd-273b-473b-8313-417f46acf7ef.png">
+
+---   
+
 
